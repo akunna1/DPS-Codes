@@ -4,7 +4,9 @@
 Codes developed for Durham Public Schools (DPS).
 
 * **Code 1 & 2:** Designed to optimize workflows for gathering, merging, and processing census data.
-* **Code 3 & 4:** Focused on conducting detailed data analysis and performing calculations.
+* **Code 3** prepares and joins address, parcel, and dwelling unit data to estimate housing density and land use patterns per parcel in Durham, NC.
+* **Code 4** analyzes discrepancies between estimated dwelling units and address or land use data, visualizing these inconsistencies across various housing densities using bar charts.
+
 
 ---
 
